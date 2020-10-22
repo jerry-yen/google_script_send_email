@@ -1,6 +1,6 @@
-# google_script_send_email
-Google Apps Script - Gmail發信
-Google Apps Script 以下簡稱 GAS
+# Google Apps Script - Gmail發信
+Google Apps Script 以下簡稱 GAS<br />
+
 ## 需求
 以往在開發案件程式時，常常因為客戶沒有郵件伺服器(SMTP)可以處理「聯絡我們」表單的發信功能<br />
 所以在客戶規模不大時，我會請客戶使用自己的Google帳號，並幫他新增一個GAS專案<br />
